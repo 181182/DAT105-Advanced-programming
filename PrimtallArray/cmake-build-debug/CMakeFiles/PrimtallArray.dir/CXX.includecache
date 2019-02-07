@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/deadmaggi/CLionProjects/PrimtallArray/cmake-build-debug/Primtall.cpp
+Primtall.h
+/Users/deadmaggi/CLionProjects/PrimtallArray/cmake-build-debug/Primtall.h
+math.h
+-
+
+/Users/deadmaggi/CLionProjects/PrimtallArray/cmake-build-debug/Primtall.h
+
+/Users/deadmaggi/CLionProjects/PrimtallArray/main.cpp
+iostream
+-
+cmake-build-debug/Primtall.h
+/Users/deadmaggi/CLionProjects/PrimtallArray/cmake-build-debug/Primtall.h
+math.h
+-
+array
+-
+
