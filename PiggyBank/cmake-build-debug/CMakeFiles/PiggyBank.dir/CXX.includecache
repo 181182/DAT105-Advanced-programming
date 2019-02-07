@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/deadmaggi/CLionProjects/PiggyBank/Bank.cpp
+Bank.h
+/Users/deadmaggi/CLionProjects/PiggyBank/Bank.h
+
+/Users/deadmaggi/CLionProjects/PiggyBank/Bank.h
+
+/Users/deadmaggi/CLionProjects/PiggyBank/main.cpp
+iostream
+-
+Bank.h
+/Users/deadmaggi/CLionProjects/PiggyBank/Bank.h
+thread
+-
+mutex
+-
+condition_variable
+-
+vector
+-
+
