@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Klasser.dir/main.cpp.o CMakeFiles/Klasser.dir/Spiller.cpp.o CMakeFiles/Klasser.dir/Konto.cpp.o CMakeFiles/Klasser.dir/Transaksjon.cpp.o  -o Klasser 

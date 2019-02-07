@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.9)
+project(Klasser)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Klasser main.cpp Spiller.cpp Spiller.h Konto.cpp Konto.h Transaksjon.cpp Transaksjon.h)
