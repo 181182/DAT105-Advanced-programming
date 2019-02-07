@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/deadmaggi/CLionProjects/PriorityQueue1/PriorityQueue.cpp
+PriorityQueue.h
+/Users/deadmaggi/CLionProjects/PriorityQueue1/PriorityQueue.h
+
+/Users/deadmaggi/CLionProjects/PriorityQueue1/PriorityQueue.h
+edge.h
+/Users/deadmaggi/CLionProjects/PriorityQueue1/edge.h
+vector
+-
+
+/Users/deadmaggi/CLionProjects/PriorityQueue1/edge.h
+
+/Users/deadmaggi/CLionProjects/PriorityQueue1/main.cpp
+iostream
+-
+PriorityQueue.h
+/Users/deadmaggi/CLionProjects/PriorityQueue1/PriorityQueue.h
+node.h
+/Users/deadmaggi/CLionProjects/PriorityQueue1/node.h
+
+/Users/deadmaggi/CLionProjects/PriorityQueue1/node.h
+vector
+-
+climits
+-
+cstdlib
+-
+edge.h
+/Users/deadmaggi/CLionProjects/PriorityQueue1/edge.h
+
